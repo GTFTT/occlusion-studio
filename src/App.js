@@ -1,15 +1,14 @@
 import './App.css';
 
-import { Menu } from './components';
+import { Menu, Intro } from './components';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <Menu />
-      </header>
-    </div>
-  );
+	return (
+		<div className="App">
+			<Intro />
+			{/* <Menu /> */}
+		</div>
+	);
 }
 
 export default App;

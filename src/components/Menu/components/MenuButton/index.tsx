@@ -1,14 +1,16 @@
 import * as React from 'react';
 
+import Styles from './styles.module.css';
+
 interface IMenuButtonProps {
     /** Text of a button */
     label: string,
-    onClick: (e: React.MouseEvent<HTMLButtonElement>) => void,
+    onClick: (e: React.MouseEvent<HTMLAnchorElement>) => void,
 }
 
 const MenuButton: React.FunctionComponent<IMenuButtonProps> = (props) => {
-    return <div>
-        <button onClick={ props.onClick }>{ props.label }</button>
+    return <div className={Styles.buttonContainer}>
+        <a className={Styles.button} onClick={ props.onClick }>{ props.label }</a>
     </div>;
 };
 

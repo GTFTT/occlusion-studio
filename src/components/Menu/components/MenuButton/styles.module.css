@@ -1,0 +1,17 @@
+.buttonContainer {
+    line-height: 3em;
+    border-bottom: 0.1em solid white;
+    min-width: 8em;
+    display: inline-block;
+    margin: 0 1em;
+}
+
+.button {
+    color: white;
+}
+
+.button:hover {
+    color: darkred;
+    font-size: 1.2em;
+    cursor: pointer;
+}
