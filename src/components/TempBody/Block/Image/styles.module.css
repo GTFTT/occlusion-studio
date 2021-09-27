@@ -1,0 +1,12 @@
+.imageCont {
+    display: inline-block;
+    padding: 0.1em;
+}
+
+.image {
+    height: 10em;
+    margin: 0;
+    padding: 0;
+    /* border: 0.1em solid black; */
+    /* border-radius: 0.3em; */
+}

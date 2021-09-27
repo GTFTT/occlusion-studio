@@ -1,0 +1,28 @@
+.blockCont {
+    padding: 0.6em 0.4em 0.2em 0.4em;
+    /* background-color: #e6f0fd; */
+    /* border-radius: 0.2em; */
+}
+
+.title {
+    color: black;
+    font-weight: bold;
+    font-size: 1.2em;
+    text-align: left;
+    border-bottom: 0.1em solid black;
+}
+
+.contentCont {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.4em;
+    text-align: left;
+}
+
+.childrenCont {
+    padding: 0.5em;
+}
+
+.imageCont {
+    padding: 0.5em;
+}
