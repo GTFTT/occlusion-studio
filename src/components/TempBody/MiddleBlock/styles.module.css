@@ -1,0 +1,30 @@
+.contentCont {
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: center; */
+    text-align: left;
+    flex-direction: column;
+    padding: 2em 2em 0 2em
+}
+
+.miniBlocksCont {
+    display: flex;
+    justify-content: space-between;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+
+.content {
+    width: 70%;
+}
+
+.underscore {
+    width: 100%;
+    padding-top: 1em;
+    border-bottom: 0.1em solid black;
+}
+
