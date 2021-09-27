@@ -1,7 +1,8 @@
 .blockCont {
     padding: 0.6em 0.4em 0.2em 0.4em;
-    /* background-color: #e6f0fd; */
-    /* border-radius: 0.2em; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 .title {
@@ -14,9 +15,11 @@
 
 .contentCont {
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
+    flex-direction: column;
     padding: 0.4em;
     text-align: left;
+    width: 50%;
 }
 
 .childrenCont {

@@ -1,0 +1,26 @@
+.contentCont {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 2em;
+    padding-bottom: 4em;
+}
+
+.title {
+    font-weight: bold;
+    width: 40%;
+    font-size: 1.2em;
+    margin-bottom: 1em;
+}
+
+.content {
+    width: 70%;
+}
+
+.underscore {
+    width: 55%;
+    padding-top: 1em;
+    border-bottom: 0.1em solid black;
+}
+
