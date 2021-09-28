@@ -30,7 +30,7 @@ export default function TempBody () {
         <div className={Styles.imageCont1}>
           <div className={Styles.contentCont}>
             <h2>Сучасна зуботехнічна лабораторія</h2>
-            <StyledButton>Hello</StyledButton>
+            <StyledButton>Галерея</StyledButton>
           </div>
         </div>
       </div>
