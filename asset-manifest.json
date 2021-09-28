@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/occlusion-studio/static/css/main.9784d243.chunk.css",
+    "main.css": "/occlusion-studio/static/css/main.d67d14b2.chunk.css",
     "main.js": "/occlusion-studio/static/js/main.d93497a5.chunk.js",
     "main.js.map": "/occlusion-studio/static/js/main.d93497a5.chunk.js.map",
     "runtime-main.js": "/occlusion-studio/static/js/runtime-main.a00171bc.js",
@@ -10,7 +10,7 @@
     "static/js/3.09bcbe85.chunk.js": "/occlusion-studio/static/js/3.09bcbe85.chunk.js",
     "static/js/3.09bcbe85.chunk.js.map": "/occlusion-studio/static/js/3.09bcbe85.chunk.js.map",
     "index.html": "/occlusion-studio/index.html",
-    "static/css/main.9784d243.chunk.css.map": "/occlusion-studio/static/css/main.9784d243.chunk.css.map",
+    "static/css/main.d67d14b2.chunk.css.map": "/occlusion-studio/static/css/main.d67d14b2.chunk.css.map",
     "static/js/2.f0e18b5c.chunk.js.LICENSE.txt": "/occlusion-studio/static/js/2.f0e18b5c.chunk.js.LICENSE.txt",
     "static/media/Clipboard.26db4bd7.svg": "/occlusion-studio/static/media/Clipboard.26db4bd7.svg",
     "static/media/DentalCheckup.5c302e0f.svg": "/occlusion-studio/static/media/DentalCheckup.5c302e0f.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.a00171bc.js",
     "static/js/2.f0e18b5c.chunk.js",
-    "static/css/main.9784d243.chunk.css",
+    "static/css/main.d67d14b2.chunk.css",
     "static/js/main.d93497a5.chunk.js"
   ]
 }
