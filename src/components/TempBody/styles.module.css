@@ -7,9 +7,7 @@
 }
 
 .imageCont1, .imageCont2 {
-    /* background-image: url("./images/Image1.png"); */
     min-height: 40vh;
-    width: 100vw;
     background-repeat: no-repeat;
     background-size: 100vw auto;
 }
