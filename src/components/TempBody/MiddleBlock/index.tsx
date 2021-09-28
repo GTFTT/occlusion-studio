@@ -4,9 +4,9 @@ import Styles from './styles.module.css';
 
 import MiniBlock from './MiniBlock';
 
-import Clipboard from './images/Clipboard.png';
-import DentalCheckup from './images/DentalCheckup.png';
-import LowPrices from './images/LowPrices.png';
+import Clipboard from './images/Clipboard.svg';
+import DentalCheckup from './images/DentalCheckup.svg';
+import LowPrices from './images/LowPrices.svg';
 
 export default function MiddleBlock () {
     return (
