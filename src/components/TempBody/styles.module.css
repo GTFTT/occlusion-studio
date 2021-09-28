@@ -2,8 +2,8 @@
     min-height: 50vh;
 }
 
-.imageBlockCont {
-    /* min-height: 100vh; */
+.descriptionCont {
+    padding: 0 2em;
 }
 
 .imageCont1, .imageCont2 {
