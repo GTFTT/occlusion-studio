@@ -15,11 +15,12 @@
 .title {
     font-weight: bold;
     font-size: 2em;
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
 }
 
 .content {
     width: 70%;
+    font-weight: 500;
 }
 
 .underscore {

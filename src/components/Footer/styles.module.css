@@ -16,6 +16,7 @@
     height: 24px;
     width: 24px;
     margin: 0 0.5em;
+    padding: 0.3em 0;
 }
 
 .navigationLink {
@@ -26,7 +27,7 @@
 .supportLink {
     padding: 0 0.3em;
     border-bottom: 0.1em solid white;
-    font-size: 0.8em;
+    font-size: 1em;
     margin: 0 0.4em;
     display: flex;
     flex-direction: row;
@@ -35,7 +36,8 @@
 .supportLink span {
     padding: 0 0.3em;
     font-size: 0.8em;
-    width: 16em;
+    font-weight: bolder;
+    width: 12em;
     display: flex;
     margin: 0;
 }
