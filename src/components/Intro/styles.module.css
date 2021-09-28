@@ -17,3 +17,7 @@
     padding-left: 2em;
     padding-top: 2em;
 }
+
+.contentCont h5 {
+    font-weight: normal;
+}

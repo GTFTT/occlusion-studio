@@ -7,7 +7,7 @@
 }
 
 .imageCont1, .imageCont2 {
-    min-height: 40vh;
+    min-height: 50vh;
     background-repeat: no-repeat;
     background-size: 100vw auto;
 }
@@ -22,7 +22,7 @@
 
 .contentCont {
     color: white;
-    padding-top: 2em;
+    padding-top: 4em;
     display: flex;
     justify-content: center;
     align-items: center;

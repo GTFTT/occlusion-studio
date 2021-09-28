@@ -7,7 +7,7 @@
 }
 
 .image {
-    height: 2em;
+    height: 1.2em;
 }
 
 .title {
@@ -17,6 +17,7 @@
 
 .content {
     width: 70%;
+    font-size: 0.6em;
 }
 
 .number {
@@ -24,5 +25,6 @@
     font-weight: bold;
     padding-top: 0.2em;
     padding-bottom: 0.5em;
+    font-size: 0.6em;
 }
 

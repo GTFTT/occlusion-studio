@@ -3,8 +3,8 @@ import * as React from 'react';
 import Styles from './styles.module.css';
 
 interface Props {
-    /** Number of miniblock */
-    number: number,
+    /** Number of miniblock (in form of string) */
+    number: string,
 
     /** Image path */
     image: string,

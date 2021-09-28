@@ -25,9 +25,9 @@ export default function MiddleBlock () {
                 <span className={Styles.underscore} />
 
                 <div className={Styles.miniBlocksCont}>
-                    <MiniBlock number={1} image={Clipboard} />
-                    <MiniBlock number={2} image={DentalCheckup} />
-                    <MiniBlock number={3} image={LowPrices} />
+                    <MiniBlock number={"01"} image={Clipboard} />
+                    <MiniBlock number={"02"} image={DentalCheckup} />
+                    <MiniBlock number={"03"} image={LowPrices} />
                 </div>
             </div>
         </div>

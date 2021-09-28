@@ -16,7 +16,7 @@ export default function Intro (props: IIntroProps) {
                 <Menu />
                 <div className={Styles.contentCont}>
                     <h1>Сучасна зуботехнічна лабораторія</h1>
-                    <h3>Тут якийсь текст на опис цього</h3>
+                    <h5>Тут якийсь текст на опис цього</h5>
                     <StyledButton>Замовити</StyledButton>
                 </div>
             </div>
