@@ -5,12 +5,12 @@ import Styles from './styles.module.css';
 interface IMenuButtonProps {
     /** Text of a button */
     label: string,
-    onClick: (e: React.MouseEvent<HTMLAnchorElement>) => void,
+    // onClick?: (e: React.MouseEvent<HTMLAnchorElement>) => void,
 }
 
 const MenuButton: React.FunctionComponent<IMenuButtonProps> = (props) => {
     return <div className={Styles.buttonContainer}>
-        <a className={Styles.button} onClick={ props.onClick }>{ props.label }</a>
+        <a className={Styles.button}>{ props.label }</a>
     </div>;
 };
 

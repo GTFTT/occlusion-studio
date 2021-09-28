@@ -14,10 +14,20 @@
     text-align: left;
     margin: 0 auto 0 0;
     width: 50%;
-    padding-left: 2em;
-    padding-top: 2em;
+    padding-left: 3.6em;
+    padding-top: 6.3em;
 }
 
 .contentCont h5 {
+    margin-top: 0.5em;
     font-weight: normal;
+}
+
+.contentCont h1 {
+    font-size: 2em;
+    margin-bottom: 0;
+}
+
+.buttonCont {
+    margin-top: 2.5em;
 }

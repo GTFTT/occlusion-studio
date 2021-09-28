@@ -13,7 +13,7 @@ import StyledButton from './../StyledButton';
 export default function TempBody () {
   return (
     <div className={ Styles.mainCont }>
-      <div className={Styles.descriptionCont}>
+      <div className={Styles.descriptionCont} style={{padding: '0 3em'}}>
         <Block title={"Сучасна команда зубних техніків"} image={Team}>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
           Hac maecenas feugiat mauris, lacus non urna facilisis mattis.

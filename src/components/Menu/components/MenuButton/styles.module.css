@@ -1,7 +1,8 @@
 .buttonContainer {
     line-height: 2em;
     /* border-bottom: 0.1em solid gray; */
-    min-width: 8em;
+    /* min-width: 6em; */
+    padding: 0 1em;
     display: inline-block;
     margin: 0 1em;
 }
