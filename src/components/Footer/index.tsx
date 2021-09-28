@@ -26,17 +26,17 @@ export default function Footer () {
         <div className={Styles.row}>
             <span className={Styles.supportLink}>
                 <img className={Styles.icon} src={MapLocation} alt="map"/>
-                <span>Закарпатська обл., с.Іза вул.Учительська, 35</span>
+                <div>Закарпатська обл., с.Іза вул.Учительська, 35</div>
             </span>
 
             <span className={Styles.supportLink}>
                 <img className={Styles.icon} src={Telephone} alt="telephone"/>
-                <span>+38 098 3379160</span>
+                <div>+38 098 3379160</div>
             </span>
 
             <span className={Styles.supportLink}>
                 <img className={Styles.icon} src={Mail} alt="mail"/>
-                <span>dobrodent.k.s@gmail.com</span>
+                <div>dobrodent.k.s@gmail.com</div>
             </span>
         </div>
 
